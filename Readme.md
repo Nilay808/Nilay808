@@ -5,7 +5,7 @@
 
 ### 🤵 About Me:
 - 🏦 I'm currently pursuing my master's in computer Science at Dalhousie University located in Halifax, NS, Canada.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  Presently working as Devops engineer intern at Alcumus North America.
+-  Presently working as Devops engineer at Eco-Online Global.
 - 🌱 I'm passionate about Software Development and Cloud Computing. 
 - 💬 Talk to me about cars, video games and Tech.
 
