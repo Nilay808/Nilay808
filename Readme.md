@@ -6,7 +6,7 @@
 ### 🤵 About Me:
 - 🏦 Completed Master's in Computer Science from Dalhousie University.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  Presently working as Devops engineer at Eco-Online Global.
-- 🌱 I'm passionate about Software Development and Cloud Computing. 
+- 🌱 Passionate about Software Development and Cloud Computing. 
 - 💬 Talk to me about cars, video games and Tech.
 
 ##### Connect with me on: <p align="center">
